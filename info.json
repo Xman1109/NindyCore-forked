@@ -1,0 +1,12 @@
+{
+	"name": "NindyCore-forked",
+	"version": "1.0.3",
+	"title": "Nindy's Library forked",
+	"author": "NindyBun",
+	"homepage":"",
+	"description": "Contains necessary functions to be used by my other mods",
+	"factorio_version": "2.0",
+	"dependencies": [
+		"base >= 1.1"
+	]
+}
